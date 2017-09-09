@@ -11,6 +11,10 @@
 				id="changelog"
 				title="Changelog"
 				description="View Changelog">https://raw.githubusercontent.com/marulamsamosir/rr_ota/nougat/armani.txt</ChangelogUrl>
+			<Firmware1Url
+				id="firmware"
+				title="Recommended Firmware"
+				description="Download ResurrectionRemix Firmware">https://downloads.sourceforge.net/project/rr-nougat/armani/firmware/firmware-8.2.1.0.zip</Firmware1Url>
 			<OldBuildsUrl
 				id="Old_builds"
 				title="Rom Archive"
