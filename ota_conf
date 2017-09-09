@@ -7,7 +7,7 @@
 # * Multiple devices can be added in the xml file
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 #
-ota_url=https://raw.githubusercontent.com/marulamsamosir/rr_ota/master/gemini.xml
+ota_url=https://raw.githubusercontent.com/mandroject/f70aab82b1ee31698d58db7157e5967a/nougat/gemini.xml
 release_type=Stable
 device_name=gemini
  
