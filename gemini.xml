@@ -17,8 +17,12 @@
 				description="View Changelog">https://raw.githubusercontent.com/marulamsamosir/rr_ota/nougat/gemini.txt</ChangelogUrl>
 			<OldBuildsUrl
 				id="Old_builds"
-				title="Rom Archive"
-				description="Old Builds Download Archive">https://sourceforge.net/projects/rr-nougat/files/gemini/</OldBuildsUrl>
+				title="Rom Archive 1"
+				description="Old Builds Download Archive (SourceForge)">https://sourceforge.net/projects/rr-nougat/files/gemini/</OldBuildsUrl>
+			<OldBuilds2Url
+				id="Old_builds2"
+				title="Rom Archive 2"
+				description="Old Builds Download Archive (AndroidFileHost)">https://androidfilehost.com/?w=files&flid=210417</OldBuilds2Url>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="GApps"
